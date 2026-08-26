@@ -37,8 +37,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-<img width="1122" height="876" alt="image" src="https://github.com/user-attachments/assets/44a049eb-ca95-4e53-b12e-a782e3371a8a" />
-
+<img width="1125" height="881" alt="image" src="https://github.com/user-attachments/assets/86ad967d-069d-47e0-baf6-f1c30db8bbb0" />
 
 # CLASS DIAGRAM
 
@@ -62,8 +61,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-<img width="870" height="751" alt="image" src="https://github.com/user-attachments/assets/f43b7816-fcdb-4c6e-9d65-a5af188641cc" />
-
+<img width="878" height="751" alt="image" src="https://github.com/user-attachments/assets/306231ba-57fd-41e9-8b42-8c9897defd72" /> 
 
 # PACKAGE DIAGRAM:
 
