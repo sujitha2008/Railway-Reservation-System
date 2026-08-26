@@ -1,10 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
-
-
+# Reg No:212225040436
+# Name:SUJITHA S
+# Date:27-08-26
 # AIM:
 To develop the Railway Reservation System using Star UML.
 
@@ -39,10 +37,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
+<img width="1122" height="876" alt="image" src="https://github.com/user-attachments/assets/44a049eb-ca95-4e53-b12e-a782e3371a8a" />
 
 
 # CLASS DIAGRAM
@@ -67,7 +62,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
+<img width="870" height="751" alt="image" src="https://github.com/user-attachments/assets/f43b7816-fcdb-4c6e-9d65-a5af188641cc" />
 
 
 # PACKAGE DIAGRAM:
@@ -97,9 +92,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+<img width="663" height="837" alt="Screenshot 2026-08-26 210505" src="https://github.com/user-attachments/assets/d82ac65d-b65a-4bd2-9932-6eaab9e920a3" />
 
 # SEQUENCE DIAGRAM
 
@@ -118,10 +111,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
-
-
-
+<img width="1113" height="742" alt="Screenshot 2026-08-26 212019" src="https://github.com/user-attachments/assets/a43fc91b-c17d-4de5-a98c-57b35c0e498d" />
 
 # RESULT
 
